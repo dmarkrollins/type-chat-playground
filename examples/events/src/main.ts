@@ -18,7 +18,7 @@ processRequests("> ", process.argv[2], async (request) => {
         return;
     }
     const event = response.data;
-    console.log(event)
+    console.log(JSON.stringify(event, null, 4))
     // if (event.items.some((item) => item.itemType === "unknown")) {
     //   console.log("I didn't understand the following:");
     //   for (const item of order.items) {

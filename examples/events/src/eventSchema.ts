@@ -19,9 +19,9 @@ export type Presentation = {
     presentors?: string[];
     // the title of the presentation (examples: "How to do MLOps right", "Event Driven Architecture at Scale")
     title?: string;
-    // // a description of the presentation (examples: "This is a detailed description of the presentation", "This describes what the presentation is all about")
+    // a description of the presentation (examples: "This is a detailed description of the presentation", "This describes what the presentation is all about")
     description?: string;
-    // default: 60
+    // the length in minutes for this presentation - default: 60
     lengthMinutes?: number;
 };
 
@@ -37,6 +37,6 @@ export type Lab = {
     title?: string;
     // a description of the presentation (examples: "This is a detailed description of the presentation", "This describes what the presentation is all about")
     description?: string;
-    // default: 60
+    // the length in minutes for this lab - default: 60
     lengthMinutes?: number;
 };

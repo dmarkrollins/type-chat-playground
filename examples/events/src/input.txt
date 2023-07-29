@@ -2,4 +2,5 @@ Jim Smith and Joe Noel will have a 90 minute discussion on serverless archicture
 Bill and Susan will do a hands on lab for 120 minutes about building capability templates that will help participants better understand how to create, build and maintain capability templates
 How to make a containerized app will be presented by Jack Knight. This presentation will be 90 minutes long and go into the details concerning building world class kubernetes applications.
 Dave, Jim, and Elise will lead a lab showing students how to build paper mache dinosaurs with duct tape, scissors, paste, and strips of paper
-Bill Jenkins wants to share a recorded video of a session he did on kubernetes architectures that goes into some great detail on how we can streamline leveraging EKS at 6thCents
+Bill Jenkins, Brian Watkins, Dudley Smith want to share a recorded video of a session they did on kubernetes architectures that goes into some great detail on how we can streamline leveraging EKS
+Jim Stuart, Kadie Sampsen, Derrick Baldwin - Building better mouse traps - a hands on lab that will delve into the inner workings of step functions, what works, what doesn't and how you can leverage step functions to build mission critical applications

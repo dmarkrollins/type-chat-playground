@@ -1,0 +1,1 @@
+Jim Smith and Joe Noel will do a presentation on building better serverless applications that will dive in to the ins and out of building serverless applications that scale and can be maintained easily
